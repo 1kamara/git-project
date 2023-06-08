@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/1kamara/git-project.git/static/css/main.9a395240.css",
+    "main.js": "/1kamara/git-project.git/static/js/main.973fd5ce.js",
+    "static/js/787.cefcaab4.chunk.js": "/1kamara/git-project.git/static/js/787.cefcaab4.chunk.js",
+    "index.html": "/1kamara/git-project.git/index.html",
+    "main.9a395240.css.map": "/1kamara/git-project.git/static/css/main.9a395240.css.map",
+    "main.973fd5ce.js.map": "/1kamara/git-project.git/static/js/main.973fd5ce.js.map",
+    "787.cefcaab4.chunk.js.map": "/1kamara/git-project.git/static/js/787.cefcaab4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a395240.css",
+    "static/js/main.973fd5ce.js"
+  ]
+}
